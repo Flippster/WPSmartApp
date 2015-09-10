@@ -1,0 +1,2 @@
+# WPSmartApp
+Bachelorprojekt WPSmartApp 
